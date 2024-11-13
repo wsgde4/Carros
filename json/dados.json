@@ -1,0 +1,38 @@
+{
+    "link": "https:\/\/turma12r.alunos.esmonserrate.org\/kauan\/carros\/public\/api\/carros\/create",
+    "codigo": "id=4&Marca=Porsche&Detalhes=Boxster 987&Foto=https:\/\/cdn.jornaldenegocios.pt\/images\/2015-12\/img_900x561$2015_12_02_10_19_00_269672.jpg",
+    "type": "application\/x-www-form-urlencoded",
+    "extens\u00e3o": "Talend API Tester - Free Edition",
+    "carros": [
+        {
+            "id": "1",
+            "Marca": "Ferrari",
+            "Detalhes": "F8",
+            "Foto": "https:\/\/www.motor24.pt\/files\/2019\/03\/1681733_Ferrari_F8_Tributo_4-800x533_c.jpg"
+        },
+        {
+            "id": "2",
+            "Marca": "McLaren",
+            "Detalhes": "720s Spider",
+            "Foto": "https:\/\/uploads.diariodopoder.com.br\/2022\/08\/01e5f9d4-2batch_mclaren-720s_spider-2019-1600-02-960x640.jpg"
+        },
+        {
+            "id": "3",
+            "Marca": "Lamborghini",
+            "Detalhes": "Aventador",
+            "Foto": "https:\/\/d63oxfkn1m8sf.cloudfront.net\/526x324\/9917\/1569\/5324\/hk119_1.jpg%3Ffit%3D1"
+        },
+        {
+            "id": "4",
+            "Marca": "Porsche",
+            "Detalhes": "Boxster 987",
+            "Foto": "https:\/\/cdn.jornaldenegocios.pt\/images\/2015-12\/img_900x561$2015_12_02_10_19_00_269672.jpg"
+        },
+        {
+            "id": "5",
+            "Marca": "Bizarro",
+            "Detalhes": "Porco",
+            "Foto": "https:\/\/i.pinimg.com\/736x\/f8\/62\/65\/f862656a4050dba1c20a7af31b046e9d.jpg"
+        }
+    ]
+}
